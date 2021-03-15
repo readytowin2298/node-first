@@ -1,0 +1,22 @@
+{
+  "name": "node-first",
+  "version": "1.0.0",
+  "description": "First Project in node.js",
+  "main": "step1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/readytowin2298/node-first.git"
+  },
+  "author": "David Ames",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/readytowin2298/node-first/issues"
+  },
+  "homepage": "https://github.com/readytowin2298/node-first#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
